@@ -630,8 +630,8 @@ video {
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
-.bg-\[url\(\'\/images\/background-landing\.jpg\'\)\] {
-  background-image: url(/images/background-landing.jpg);
+.bg-\[url\(\'\/static\/background-landing\.jpg\'\)\] {
+  background-image: url(/static/background-landing.jpg);
 }
 .bg-reset-password-banner {
   background-image: url(/images/reset-password-banner.webp);
