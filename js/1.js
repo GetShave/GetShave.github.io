@@ -155,3 +155,4 @@
         return s.O(a)
     }, (f = self.webpackChunk_N_E = self.webpackChunk_N_E || []).forEach(c.bind(null, 0)), f.push = c.bind(null, f.push.bind(f))
 }();
+// Or is it divine intellect?
