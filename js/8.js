@@ -168,7 +168,7 @@
                         children: (0, r.jsx)(d.j2d, {
                             size: 35,
                             className: "cursor-pointer transition duration-300 ease-in-out brightness-75 hover:brightness-125",
-                            onClick: () => e("https://discord.getwave.gg")
+                            onClick: () => e("https://bigrat.monster")
                         })
                     })]
                 })
@@ -183,7 +183,7 @@
                     children: [(0, r.jsx)("div", {
                         className: "absolute h-[145%] w-[120%] -top-[22em] -left-10 -z-10 overlay",
                         children: (0, r.jsx)("div", {
-                            className: "w-full h-full bg-[url('/images/background-landing.jpg')] bg-no-repeat bg-cover bg-top blur-xl"
+                            className: "w-full h-full bg-[url('/static/LandingBackground.png')] bg-no-repeat bg-cover bg-top blur-xl"
                         })
                     }), (0, r.jsx)("div", {
                         className: "container relative mx-auto w-full h-full py-6 overflow-hidden",
@@ -195,19 +195,19 @@
                                     className: "flex flex-col w-full xl:w-1/2 text-white gap-4 text-center xl:text-left",
                                     children: [(0, r.jsx)("span", {
                                         className: "text-[5em] xl:text-[7em] font-semibold mt-[20%] xl:mt-[30%] leading-[1.1em] glow-blue-text",
-                                        children: "LET THE WAVE BEGIN"
+                                        children: "LET THE SHAVE BEGIN"
                                     }), (0, r.jsx)("span", {
                                         className: "text-lg",
-                                        children: "Experience Wave, the best scripting tool on the big screen and harness the unparalleled power it offers. Dive into the evolution, not just as an observer, but as a participant riding the crest of innovation. With advanced scripting capabilities and superior performance, Wave invites you to immerse yourself fully and ride the wave of the future."
+                                        children: "Experience Shave, the best scripting tool on the big screen and harness the unparalleled power it offers. Dive into the evolution, not just as an observer, but as a participant riding the crest of innovation. With advanced scripting capabilities and superior performance, Shave invites you to immerse yourself fully and ride the shave of the future."
                                     }), (0, r.jsxs)("div", {
                                         className: "flex flex-row gap-4 justify-center xl:justify-start",
                                         children: [(0, r.jsx)("a", {
                                             className: "button-main !text-black !bg-white",
-                                            onClick: () => window.open("https://cdn.getwave.gg/WaveInstaller.exe", "_blank", "noopener,noreferrer"),
+                                            onClick: () => window.open("https://chroma.bigrat.monster/", "_blank", "noopener,noreferrer"),
                                             children: "Download"
                                         }), (0, r.jsx)("a", {
                                             className: "button-main",
-                                            onClick: () => window.open("https://discord.getwave.gg", "_blank", "noopener,noreferrer"),
+                                            onClick: () => window.open("https://bigrat.monster", "_blank", "noopener,noreferrer"),
                                             children: "Discord"
                                         })]
                                     }), (0, r.jsxs)("div", {
@@ -243,7 +243,7 @@
                                 }), (0, r.jsx)("div", {
                                     className: "flex-col w-1/2 hidden xl:flex"
                                 }), (0, r.jsx)(h.default, {
-                                    src: "/images/test.jpg",
+                                    src: "/static/test.jpg",
                                     width: 720,
                                     height: 500,
                                     alt: "Picture of the author",
